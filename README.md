@@ -1,5 +1,5 @@
 # Sistema Planetario 3D
-Programa que crea una representación gráfica en 2D, de un sistema planetario descrito
+Programa que crea una representación gráfica en 3D, de un sistema planetario descrito
 en un archivo `json`.
 
 ## Instalación y ejecución
