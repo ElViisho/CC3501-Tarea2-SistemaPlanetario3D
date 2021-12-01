@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pyopengl
+glfw
+ipython
+jupyter
+pillow

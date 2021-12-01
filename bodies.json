@@ -1,0 +1,145 @@
+{
+    " Nombre": "Narciso",
+    " Color" : [ 1, 1, 0 ],
+    " Radius" : 0.1,
+    " Distance" : 0.0,
+    " Velocity" : 0.0,
+    " Model" : " Null",
+    " Inclination" : 0,
+    " Satellites" : [
+        {
+            " Nombre": "Plana",
+            " Color" : [ 0.0, 0.2, 0.8 ],
+            " Radius" : 0.03,
+            " Distance" : 0.45,
+            " Velocity" : 0.1,
+            " Model" : "Cuerpos\\TierraPlana.obj",
+            " Inclination" : 0.18,
+            " Satellites" : [
+                {
+                    " Nombre": "LunaEsferica",
+                    " Color" : [ 0.9, 0.4, 0.1],
+                    " Radius" : 0.01,
+                    " Distance" : 0.09,
+                    " Velocity" : -0.2,
+                    " Model" : " Null",
+                    " Inclination" : 0.5,
+                    " Satellites" : " Null"
+                },
+                {
+                    " Nombre": "LunaNoPlana",
+                    " Color" : [ 0.2, 0.4, 0.8 ],
+                    " Radius" : 0.015,
+                    " Distance" : 0.14,
+                    " Velocity" : 0.02,
+                    " Model" : " Null",
+                    " Inclination" : -0.2,
+                    " Satellites" : " Null"
+                }
+            ]
+        },
+        {
+            " Nombre": "Ares",
+            " Color" : [ 1, 0.3, 0.0 ],
+            " Radius" : 0.05,
+            " Distance" : 0.65,
+            " Velocity" : 0.2,
+            " Model" : " Null",
+            " Inclination" : 0.62,
+            " Satellites" : " Null"
+        },
+        {
+            " Nombre": "RosquillaConCruzAlCentro",
+            " Color" : [ 0.3, 1.0, 1.0 ],
+            " Radius" : 0.025,
+            " Distance" : 0.9,
+            " Velocity" : -0.1,
+            " Model" : "Cuerpos\\Dona.obj",
+            " Inclination" : 0,
+            " Satellites" : [
+                {
+                    " Nombre": "Lucifer",
+                    " Color" : [ 1.0, 0.0, 0.0 ],
+                    " Radius" : 0.015,
+                    " Distance" : 0.1,
+                    " Velocity" : 0.2,
+                    " Model" : " Null",
+                    " Inclination" : 0,
+                    " Satellites" : " Null"
+                },
+                {
+                    " Nombre": "Jupiter",
+                    " Color" : [ 0.3, 0.8, 0.3 ],
+                    " Radius" : 0.01,
+                    " Distance" : 0.07,
+                    " Velocity" : -0.05,
+                    " Model" : " Null",
+                    " Inclination" : 0.7,
+                    " Satellites" : " Null"
+                }
+            ]
+        },
+        {
+            " Nombre": "Hermenejildo",
+            " Color" : [ 0.0, 0.9, 0.9 ],
+            " Radius" : 0.071,
+            " Distance" : 1.2,
+            " Velocity" : 0.1,
+            " Model" : "Cuerpos\\Monke.obj",
+            " Inclination" : 0.72,
+            " Satellites" : [
+                {
+                    " Nombre": "Trompo",
+                    " Color" : [ 0.5, 0.1, 0.5 ],
+                    " Radius" : 0.05,
+                    " Distance" : 0.1,
+                    " Velocity" : -0.1,
+                    " Model" : "Cuerpos\\Piramide.obj",
+                    " Inclination" : 1.2,
+                    " Satellites" : " Null"
+                },
+                {
+                    " Nombre": "JurassicPark",
+                    " Color" : [ 0.7, 0.4, 0.7],
+                    " Radius" : 0.022,
+                    " Distance" : 0.31,
+                    " Velocity" : 1,
+                    " Model" : "Cuerpos\\Monke.obj",
+                    " Inclination" : 0.12,
+                    " Satellites" : " Null"
+                },
+                {
+                    " Nombre": "Pandora",
+                    " Color" : [ 0.2, 0.2, 0.1],
+                    " Radius" : 0.013,
+                    " Distance" : 0.38,
+                    " Velocity" : -0.5,
+                    " Model" : "Cuerpos\\Monke.obj",
+                    " Inclination" : 0.05,
+                    " Satellites" : " Null"
+                }
+            ]
+        },
+        {
+            " Nombre": "SaturnoPeroMeQuedoFeo",
+            " Color" : [ 0.6, 0.6, 0.25 ],
+            " Radius" : 0.091,
+            " Distance" : 2,
+            " Velocity" : 0.1,
+            " Model" : "Cuerpos\\Anillos.obj",
+            " Inclination" : -0.32,
+            " Satellites" : " Null"
+        },
+        {
+            " Nombre": "THEEND",
+            " Color" : [ 0.1, 1.0, 0.15 ],
+            " Radius" : 0.12,
+            " Distance" : 2.5,
+            " Velocity" : 0.05,
+            " Model" : " Null",
+            " Inclination" : 0,
+            " Satellites" : " Null"
+        }
+    ]
+}
+    
